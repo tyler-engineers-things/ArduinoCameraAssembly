@@ -1,0 +1,14 @@
+Research Process Links:
+https://chatgpt.com/share/68b77c53-7000-8004-a6a9-78cc6d6fda12
+https://www.circuitbasics.com/basics-of-the-i2c-communication-protocol/
+
+Schematics:
+
+https://www.arduino.cc/en/uploads/Main/Arduino_Uno_Rev3-schematic.pdf
+
+
+Datasheets:
+https://www.uctronics.com/download/Amazon/ArduCAM_Mini_2MP_Camera_Shield_Hardware_Application_Note.pdf
+https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf
+https://ww1.microchip.com/downloads/en/DeviceDoc/40001917A.pdf
+https://www.uctronics.com/download/cam_module/OV2640DS.pdf?utm_source=chatgpt.com
