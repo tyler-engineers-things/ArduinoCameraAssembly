@@ -3,7 +3,6 @@ https://chatgpt.com/share/68b77c53-7000-8004-a6a9-78cc6d6fda12
 https://www.circuitbasics.com/basics-of-the-i2c-communication-protocol/
 
 Schematics:
-
 https://www.arduino.cc/en/uploads/Main/Arduino_Uno_Rev3-schematic.pdf
 
 
